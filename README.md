@@ -1,0 +1,2 @@
+# Airline-Ticket-Reservation-Company-System
+This is full source code.Only use for educational purpose. It is airline ticket reservation system in php language.  Airlines Is Easy to use Flight Ticket Reservation Management software Developed with PHP Laravel for companies of all sizes. This software is designed to fulfill the needs of Aircraft. effectively Included: Aircraft Management, Ticket Reservation &amp; Others.. It has Two side (1st one is Customer and other is Admin)
